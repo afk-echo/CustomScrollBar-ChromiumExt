@@ -15,7 +15,7 @@ An open source extension for Chromium-based browsers that replaces the tradition
 
 1. Grab a copy of the latest version [here](https://github.com/afk-echo/CustomScrollBar-ChromiumExt/releases)!
 2. Extract the .zip file into a folder of your choice on your system.
-3. Open `<browser-name>://extensions` on your browser of choice.
+3. Open `<browser-name>://extensions` on your browser of choice. (eg. `chrome://extensions` or `brave://extensions`)
 4. Enable **Developer Mode** in the page that pops up.
 5. Click `Load unpacked` and select the folder where you extracted the previously downloaded .zip file.
 
