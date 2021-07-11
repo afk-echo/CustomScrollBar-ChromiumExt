@@ -19,7 +19,7 @@ An open source extension for Chromium-based browsers that replaces the tradition
 4. Enable **Developer Mode** in the page that pops up.
 
 ![Extensions](screenshots/inst-1.png)
-5. Click on `Load unpacked` and select the folder where you extracted the previously downloaded .zip file.
+  5. Click on `Load unpacked` and select the folder where you extracted the previously downloaded .zip file.
 
 ![Developer Mode](screenshots/inst-2.png)
-6. The extension should now be loaded and enabled. Check out the new scrollbar by opening a new webpage, and happy browsing!
+  6. The extension should now be loaded and enabled. Check out the new scrollbar by opening a new webpage, and happy browsing!
