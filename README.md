@@ -22,4 +22,4 @@ An open source extension for Chromium-based browsers that replaces the tradition
 ![Extensions](screenshots/inst-1.png)
 ![Developer Mode](screenshots/inst-2.png)
 
-The extension should now be loaded and enabled. Check out the new scrollbar by opening a new webpage, and happy browsing!
+The extension should now be loaded and enabled. Check out the new scrollbar by opening a new webpage, and have fun!
