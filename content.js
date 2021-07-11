@@ -7,8 +7,8 @@ if ((parseInt(c[0])+parseInt(c[1])+parseInt(c[2]))>=384){  //finds the brightnes
     /* for a webpage with a light color scheme, the scrollbar should be dark and vice versa*/
     var contents = `
         ::-webkit-scrollbar {
-            width: 10px;
-            height: 10px;
+            width: 12px;
+            height: 12px;
             border-radius: 8px; 
             background-color: transparent;
         }
