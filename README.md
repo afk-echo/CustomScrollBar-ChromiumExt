@@ -8,3 +8,5 @@ An open source extension for Chromium-based browsers that replaces the tradition
 ### For dark theme webpages:
 
 ![Dark theme](screenshots/dark-theme.png)
+
+## Installation
